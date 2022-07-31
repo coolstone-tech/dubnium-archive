@@ -1,0 +1,22 @@
+{
+  "name": "dubnium",
+  "version": "1.4.1",
+  "funding": "https://www.patreon.com/coolstone",
+  "homepage": "https://db.coolstone.dev",
+  "description": "A powerful local database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo none"
+  },
+  "keywords": [
+    "db",
+    "dubnium",
+    "data",
+    "database"
+  ],
+  "author": "CoolStone Tech",
+  "license": "MIT",
+  "bin": {
+    "dubnium": "cli.js"
+  }
+}

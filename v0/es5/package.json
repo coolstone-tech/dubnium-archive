@@ -1,0 +1,25 @@
+{
+  "name": "dubnium-es5",
+  "version": "0.0.2",
+  "description": "A fast, simple, lightweight, and powerful local database",
+  "main": "index.js",
+  "dependencies": {
+    "fuzzy": "^0.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db",
+    "dubnium",
+    "data",
+    "database",
+    "local",
+    "coolstone",
+    "lightweight",
+    "fast",
+    "cool"
+  ],
+  "author": "CoolStone Tech",
+  "license": "MIT"
+}
